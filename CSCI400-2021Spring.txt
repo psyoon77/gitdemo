@@ -13,6 +13,7 @@ Jiahao Lun
 Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
+Thato Sekonya
 Yilong Xu
 Damaris Zola
 
