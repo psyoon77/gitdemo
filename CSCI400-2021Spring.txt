@@ -14,6 +14,7 @@ Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
 Yilong Xu
+Alexandre Sannibale
 Damaris Zola 
 Alexandre Sannibale
 
