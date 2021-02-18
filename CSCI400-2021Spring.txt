@@ -16,9 +16,8 @@ Janak Malla
 Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
+Alexandre Sannibale
 Yilong Xu
-Alexandre Sannibale
 Damaris Zola 
-Alexandre Sannibale
 Jason Ti
 Mike Guarino 
