@@ -1,17 +1,26 @@
-Ekaitz Alonso
+Ekaitz Alonso Larrea
 Mahmoud Alminawi
+Joey Aly
 Mely Arias 
 Colton Berry
 Gavin Burke
+Yi Dou
 Erin Frederick
 Luke Henry
 Emily Hill
 Megan Hulmes
+Camryn Koch
 Han Le
 Jiahao Lun
+Janak Malla
 Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
+Greg Reda
+Alexandre Sannibale
+Thato Sekonya
 Yilong Xu
-Damaris Zola
+Damaris Zola 
+Jason Ti
+Mike Guarino 
 
