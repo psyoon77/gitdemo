@@ -16,6 +16,7 @@ Janak Malla
 Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
+Perrfection Peterkin
 Greg Reda
 Alexandre Sannibale
 Thato Sekonya
